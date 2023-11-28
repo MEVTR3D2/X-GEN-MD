@@ -25,11 +25,11 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
+ 
   ['237620845735', 'MEVTR', true] 
 ] 
 
-global.mods = ['237620845735','8801853262586'] //Don't replace this,If you want to add someone add any dev
+global.mods = ['237620845735',] //Don't replace this,If you want to add someone add any dev
 global.prems = ['237620845735','']
 global.nomorbot = '237620845735' //Change it to your own
 global.nomorown = '237620845735' //Change it to your own
@@ -118,7 +118,7 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 x-ɢᴇɴ-ᴍᴅ 」' //Main Watermark
+global.wm = '「 MEVTR 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Slasher_Ser- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'x-ɢᴇɴ-ᴍᴅ'
 global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
